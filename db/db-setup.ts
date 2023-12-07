@@ -6,3 +6,4 @@ export function setupDB(): void {
   const db = knex(knexFile.development);
   Model.knex(db);
 }
+//

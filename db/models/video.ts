@@ -5,3 +5,4 @@ export class Video extends Model {
     return 'video';
   }
 }
+//

@@ -32,3 +32,5 @@ export async function down(knex: Knex): Promise<void> {
     .dropTableIfExists('user')
     .dropSchemaIfExists('channel');
 }
+
+//

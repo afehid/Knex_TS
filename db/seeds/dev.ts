@@ -21,3 +21,4 @@ export async function seed(knex: Knex): Promise<void> {
     { id: 3, title: 'video3ByUser2', channelId: 2 },
   ]);
 }
+//

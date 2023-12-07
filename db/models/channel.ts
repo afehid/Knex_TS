@@ -5,3 +5,4 @@ export class Channel extends Model {
     return 'channel';
   }
 }
+//
